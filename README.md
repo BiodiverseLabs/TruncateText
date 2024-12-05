@@ -1,7 +1,7 @@
 # TruncateText
 Truncates a large tab delimited text file into a user-specified number of rows and columns<br>
 <br>
-This tool was developed to quickly turn large OTU tables originating from environmental DNA (eDNA) analysis into a manageble size to open/run on standard systems. 
+This tool was developed to quickly turn large OTU tables originating from environmental DNA (eDNA) analysis into a manageble size to open/run on standard systems. <br>
 <br>
 Usage:<br>
 1. Place the Python file and the target tab delimited text file into the same folder.
